@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Antonyvinz
 - 👀 I’m interested in engineering
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me antonyvinz@gmail.com
 
 <!---
 Antonyvinz/Antonyvinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
